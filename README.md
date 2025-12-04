@@ -1,4 +1,5 @@
-Simple Python3 Program that can be used to trick Steam into letting you use Remote Play as a Remote Desktop tool into your Windows machine
+<img width="710" height="195" alt="SteamKittyBanner" src="https://github.com/user-attachments/assets/0aadb9bc-bf62-4561-9c32-f6fad36857b8" />
+SteamKitty is a Simple Python3 Program that can be used to trick Steam into letting you use Remote Play as a Remote Desktop tool into your Windows machine
 
 How to use: 
 1) Clone repo
